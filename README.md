@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Atualmente estou cursando Desenvolvimento de Sistemas<br>🌱 Estudo na Escola Sesi, no 3° ano do ensino médio<br>🎯 Estou aprendendo Java, Banco de Dados e IOT.</p>
+<p align="left"> Atualmente estou cursando Desenvolvimento de Sistemas<br> Estudo na Escola Sesi, no 3° ano do ensino médio<br> Estou aprendendo Java, Banco de Dados e IOT.</p>
 
 ###
 
